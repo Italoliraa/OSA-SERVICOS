@@ -1,0 +1,25 @@
+
+
+h3{
+    margin-top: 60px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    font: 20pt arial;
+}
+
+
+.imagem-curriculo{
+    height: 650px;
+    width: 450px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.botao-curriculos{
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+.botao-curriculos:hover{
+    transform: scale(1.5);
+}
+

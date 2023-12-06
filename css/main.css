@@ -1,0 +1,42 @@
+h2{
+    background-color: rgb(121, 218, 218);
+    border-radius: 10px;
+}
+
+div{
+    height: 275px;
+    width: 400px;
+    display: inline-block;
+    margin: 20px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 2px 2px rgb(89, 65, 65);
+}
+
+#container-a{
+    background-color: blue;
+}
+.logo-ciee{
+    height: 100px;
+    margin: 10px;
+}
+#container-b{
+    background-color: rgb(159, 67, 5);
+}
+.logo-bradesco{
+    height: 120px;
+    margin: 30px;
+}
+#container-c{
+    background-color: #4417b6;
+}
+.logo-iel{
+    height: 100px;
+    margin: 10px;
+}
+
+p{
+    color: antiquewhite;
+    padding: 10px;
+}
+
+

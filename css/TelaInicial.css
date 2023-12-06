@@ -1,0 +1,84 @@
+
+#container-logo{
+    border-radius: 10px;
+    padding-left: 100px;
+}
+
+body{
+    background-color: rgb(20, 172, 43);
+}
+
+header{
+    display: flex;
+    align-items: center;
+    padding-left: 500px;
+    margin-top: 10px;
+}
+
+h1{
+    padding-left: 50px;
+}
+
+div.primeiro{
+    background: rgb(187, 211, 226);
+    height: 450px;
+    width: 1000px;
+    border-radius: 10px;
+    align-items: center;
+    display: flex;
+    margin-top: 10px;
+    box-shadow: 2px 2px 2px 2px rgb(89, 65, 65);
+    
+}
+
+p1{
+    font: 13pt arial;
+    align-items: center;
+}
+
+
+.Colaboradores{
+    height: 450px;
+    border-radius: 10px;
+}
+
+div.footer{
+    height: 100px;
+    width: 350px;
+    display: flex;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font: 15pt arial;
+}
+
+
+button{
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 10px;
+    font: 25pt arial;
+    text-decoration: none;
+    box-shadow: 2px 2px rgb(52, 49, 44);
+    transition: transform 0.5s; /* Animação do botão   */   
+}
+
+
+button.Inscrever:hover{
+    transform: scale(1.5); /* Animação do botão */
+}
+
+.botao-cursos{
+    margin-top: 35px;
+    cursor: pointer;
+    transition: transform 0.5s;
+}
+.botao-cursos:hover{
+    transform: scale(1.05);
+}

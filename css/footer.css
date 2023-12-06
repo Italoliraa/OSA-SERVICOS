@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    
+    box-sizing: border-box;
+}
+
+footer{
+    width: 100%;
+    background-color: rgba(8, 8, 8, 0.73);
+    height: 450px;
+    
+}
+
+h1.tutorial{
+    padding-top: 10px;
+    color: white;
+}
+
+
+
+div.ultimo{
+    height: 350px;
+    width: 450px;
+    display: inline-block;
+    border-radius: 15px;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+
+iframe{
+    border-radius: 10px;
+}
